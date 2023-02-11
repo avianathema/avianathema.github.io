@@ -69,7 +69,7 @@ p {
 
 @media screen and (max-width: 766px) {
   .header1 {
-    font-size: 5vw;
+    font-size: 4.5vw;
   }
   .header2 {
     font-size: 2vw;
@@ -84,7 +84,7 @@ p {
 
 @media screen and (min-width: 1280px) {
   .header1 {
-    font-size: 4.5vw;
+    font-size: 4vw;
   }
   .header2 {
     font-size: 1.5vw;
