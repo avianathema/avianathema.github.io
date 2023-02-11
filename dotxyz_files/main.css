@@ -82,7 +82,7 @@ p {
   }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1360px) {
   .header1 {
     font-size: 4vw;
   }
